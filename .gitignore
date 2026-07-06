@@ -1,0 +1,16 @@
+.DS_Store
+.localized
+
+# Python / environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (gated surveys) and model/training outputs — not committed
+data/
+outputs/
+scratch/
+model/
+backup/
+
